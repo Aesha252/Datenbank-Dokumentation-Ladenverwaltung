@@ -1,4 +1,8 @@
-Projektbeschreibung
+# Datenbank-Dokumentation-Ladenverwaltung
+Projekt für das Modul: DATENHALTUNG
+Studierende:r: AESHA VERMA
+Semester: Sommersemester 2025
+### Projektbeschreibung
 Dieses Projekt wurde im Rahmen eines Universitätskurses zur Einführung in Datenbanksysteme durchgeführt. Ziel war es, ein relationales Datenbankschema für ein fiktives Geschäft zu entwerfen, in MySQL umzusetzen und typische Anwendungsfälle wie Datenabfragen, Trigger und Schema-Erweiterungen zu realisieren.
 
 Da dies meine erste praktische Erfahrung mit SQL war, habe ich besonderes Augenmerk auf die Nachvollziehbarkeit des Workflows und die saubere Strukturierung des Codes gelegt. Alle SQL-Dateien wurden getestet und sind vollständig lauffähig in MySQL Workbench (Version ≥ 8.0).
