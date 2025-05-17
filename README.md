@@ -7,15 +7,17 @@ Dieses Projekt wurde im Rahmen eines Universitätskurses zur Einführung in Date
 
 Da dies meine erste praktische Erfahrung mit SQL war, habe ich besonderes Augenmerk auf die Nachvollziehbarkeit des Workflows und die saubere Strukturierung des Codes gelegt. Alle SQL-Dateien wurden getestet und sind vollständig lauffähig in MySQL Workbench (Version ≥ 8.0).
 
-Inhaltsverzeichnis
-1.Geschäftsbeschreibung & Kernprozesse
-2.Datenentitäten & ER-Diagramm
-3.Relationales Schema & SQL-Datenbank
-4.SQL-Abfragen
-5.Aktualisierung & Trigger
-6.Schema-Erweiterung
-7.Wahl der relationalen Datenbank
-8. Kund:innenbefragung
+## 📖 Inhaltsverzeichnis
+
+1. [Geschäftsbeschreibung & Kernprozesse](#1-geschäftsbeschreibung--kernprozesse)  
+2. [Datenentitäten & ER-Diagramm](#2-datenentitäten--er-diagramm)  
+3. [Relationales Schema & SQL-Datenbank](#3-relationales-schema--sql-datenbank)  
+4. [SQL-Abfragen](#4-sql-abfragen)  
+5. [Aktualisierung & Trigger](#5-aktualisierung--trigger)  
+6. [Schema-Erweiterung](#6-schema-erweiterung)  
+7. [Wahl der relationalen Datenbank](#7-wahl-der-relationalen-datenbank)  
+8. [Kund:innenbefragung](#8-kundinnenbefragung)
+
 
 ###  1: Geschäftsbeschreibung & Kernprozesse
 Der Friseursalon von meinem Klassenkamaraden steht für Stil, Entspannung und individuelle Beratung. Mit modernen Techniken und hochwertigen Produkten sorgen der dafür, dass jeder Kunde*in sich wohlfühlt und mit einem perfekten Look den Salon verlässt – ob klassisch oder trendig, bei denen ist man in besten Händen. Dienstleistungen wie Haarschnitt, Haarfärbung, Pflegebehandlungen, Styling und Maniküren sowie Pediküren werden standardmäßig angeboten. Zudem werden Produkte wie Professionelle Shampoos/Spülung, Färbungs- und Blondierungsmittel und Guntscheine verkauft. 
